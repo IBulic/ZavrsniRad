@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\no frane allowed\downloads\zavrsni\zavrsni\zavrsnirad\zavrsnirad\myform.h(1818): warning C4101: 'graphY': unreferenced local variable
+c:\users\no frane allowed\downloads\zavrsni\zavrsni\zavrsnirad\zavrsnirad\myform.h(1817): warning C4101: 'graphX': unreferenced local variable
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  ZavrsniRad.vcxproj -> C:\Users\No Frane allowed\Downloads\zavrsni\zavrsni\ZavrsniRad\Release\ZavrsniRad.exe
